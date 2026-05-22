@@ -7,7 +7,7 @@ import {
   Check,
   AlertTriangle,
 } from "lucide-react";
-import heroImg from "./assets/ill.jpg";
+import heroImg from "./assets/ill.webp";
 import docsImg from "./assets/feature-documents.jpg";
 import siteImg from "./assets/surveyor.webp";
 import escrowImg from "./assets/feature-escrow.jpg";
@@ -57,7 +57,7 @@ export default function App() {
     <>
       <section className="relative overflow-hidden">
         <div aria-hidden className="absolute inset-0 -z-10" />
-        <div className="container-q pt-20 md:pt-10 pb-24 md:pb-32 grid md:grid-cols-12 gap-12 items-center">
+        <div className="container-q pt-20 md:pt-10 pb-24 md:pb-32 grid md:grid-cols-12 gap-10 items-center">
           <div className="md:col-span-6">
             {/* <span className="eyebrow">Property verification, before payment</span> */}
             <h1 className="mt-6 text-4xl sm:text-5xl md:text-6xl lg:text-7xl leading-[1.2]">
