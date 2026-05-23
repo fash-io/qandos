@@ -10,7 +10,7 @@ export function SiteFooter() {
         <div className="md:col-span-2">
           <div className="flex items-center gap-2">
             <a href="/" className="flex items-center gap-2 w-40">
-              <img src={logo} alt="" className="size-fit" />
+              <img src={logo} alt="" className="size-fit object-contain" />
             </a>
           </div>
           <p className="mt-4 max-w-sm text-sm ">
