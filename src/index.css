@@ -59,8 +59,8 @@
 
   /* Brand colors translated to oklch */
   /* #2274a4 deep teal-blue */
-  --brand: oklch(0.9 0.11 110);
-  --brand-deep: oklch(0.9 0.11 110);
+  --brand: #bdab2d;
+  --brand-deep: #bdab2d;
   /* #e7eb90 pale chartreuse */
   --lime: oklch(0.9 0.11 110);
   /* #fadf63 warm yellow */
