@@ -8,8 +8,8 @@ export function SiteFooter() {
     >
       <div className="container-q py-16 grid gap-12 md:grid-cols-4">
         <div className="md:col-span-2">
-          <div className="flex items-center gap-2">
-            <a href="/" className="flex items-center gap-2 w-40">
+          <div className="flex items-center gap-2 h-fit">
+            <a href="/" className="flex items-center gap-2 w-40 h-fit">
               <img src={logo} alt="" className="size-fit object-contain" />
             </a>
           </div>
